@@ -1,0 +1,27 @@
+[
+    {
+        "p_rel_url" :  "Rimon013/2021-Olympic-DataEngineering-Project/refs/heads/main/Data/Athletes.csv",
+        "p_file_name" : "athletes.csv"
+    },
+
+    {
+        "p_rel_url" :  "Rimon013/2021-Olympic-DataEngineering-Project/refs/heads/main/Data/Coaches.csv",
+        "p_file_name" : "coaches.csv"
+    },
+
+    {
+        "p_rel_url" :  "Rimon013/2021-Olympic-DataEngineering-Project/refs/heads/main/Data/EntriesGender.csv",
+        "p_file_name" : "entriesgender.csv"
+    },
+
+    {
+        "p_rel_url" :  "Rimon013/2021-Olympic-DataEngineering-Project/refs/heads/main/Data/Medals.csv",
+        "p_file_name" : "medals.csv"
+    },
+
+    {
+        "p_rel_url" :  "Rimon013/2021-Olympic-DataEngineering-Project/refs/heads/main/Data/Teams.csv",
+        "p_file_name" : "teams.csv"
+    }
+
+]
