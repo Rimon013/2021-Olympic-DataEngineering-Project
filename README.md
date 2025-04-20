@@ -35,3 +35,31 @@ This architecture illustrates a streamlined **data pipeline** that takes data fr
      Azure Databricks (Transformation using PySpark)
      Azure Synapse Analytics (Data Warehouse)  
 ## Phase-I ( Data Loading/Extracting Data to Bronze Layer)  
+**All Resources in the Resource Group**  
+![All Resources in the Resource Group](Assets/Resources.JPG)    
+**All Containers**  
+![All Containers](Assets/Containers.JPG)  
+**Dynamic Pipeline**  
+![Dynamic pipeline](Assets/Datafactory.JPG) 
+**Raw Data(SilverLayer)**    
+![Raw Data](Assets/RawData.JPG) 
+
+## Phase-II ( Transforming Data to Bronze Layer)  
+**Apache Spark Using DataBricks for transforming and processing data**  
+![Raw Data](Assets/Databricks.JPG) 
+**Grant IAM Role Permission**  
+![Roles](Assets/Roles.JPG) 
+**Visualizations using DataBricks**  
+![Roles](Assets/TransformationScript.JPG) 
+**Tranformed Data**  
+![Roles](Assets/Transformeddata.JPG) 
+
+## Phase-III ( Loading Data to Gold Layer or Serving Layer)  
+**Synapse Analytics and Scripts**  
+![Roles](Assets/Sqlwarehousescript.JPG)  
+**External Table**  
+![Roles](Assets/ExternalTable.JPG)  
+**Gold Layer Meta Data**
+![Roles](Assets/Goldlayerdata.JPG) 
+
+
