@@ -44,7 +44,7 @@ This architecture illustrates a streamlined **data pipeline** that takes data fr
 **Raw Data(SilverLayer)**    
 ![Raw Data](Assets/RawData.JPG) 
 
-## Phase-II ( Transforming Data to Bronze Layer)  
+## Phase-II ( Transforming Data to Silver Layer)  
 **Apache Spark Using DataBricks for transforming and processing data**  
 ![Raw Data](Assets/Databricks.JPG) 
 **Grant IAM Role Permission**  
